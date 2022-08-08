@@ -1,5 +1,9 @@
 tailwind.config = {
     theme: {
+        screens: {
+            'phone-sm':'375px',
+            'phone':'425px'
+        },
         extend: {
             colors:{
                 "bg":"#181C1F",
