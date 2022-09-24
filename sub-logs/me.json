@@ -1,11 +1,15 @@
 {
-  "repo":"", 
-  "owner":{
-    "username":"ihsangan",
-    "email":"erinatudel@gmail.com"
+  "owner": {
+    "username": "ihsangan",
+    "email": "erinatudel@gmail.com"
   },
-  "target":{
-  "CNAME":"gweh.pages.dev"
+
+  "target": {
+    "CNAME": {
+      "name": "me",
+      "value": "gweh.pages.dev"
+    }
   },
+
   "proxied": false
 }

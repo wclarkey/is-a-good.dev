@@ -1,11 +1,15 @@
 {
-    "repo": "https://github.com/DoctorStrange49/Register",
-    "owner": {
-        "username": "DoctorStrange49",
-        "email": "stephen343strange@gmail.com"
-    },
-    "record": {
-      "CNAME": "DoctorStrange49.gitbook.io"
-    },
-    "proxied":false
+  "owner": {
+    "username": "DoctorStrange49",
+    "email": "stephen343strange@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "vulcan49343777",
+      "value": "doctorstrange49.gitbook.io"
+    }
+  },
+
+  "proxied": false
 }

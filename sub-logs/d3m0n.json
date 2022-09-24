@@ -1,11 +1,17 @@
 {
     "repo": "https://github.com/demonkingswarn/demonkingswarn.github.io",
+
     "owner": {
         "username": "demonkingswarn",
         "email": "demonkingswarn@protonmail.com"
     },
+
     "target": {
-        "CNAME": "demonkingswarn.github.io"
+        "CNAME": {
+            "name": "d3m0n",
+            "value": "demonkingswarn.github.io"
+        }
     },
-    "proxied":false
+
+    "proxied": false
 }

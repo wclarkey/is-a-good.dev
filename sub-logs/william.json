@@ -4,9 +4,12 @@
         "email": "william@williamharrison.dev"
     },
 
-     "target": {
-         "CNAME": "edge.redirect.pizza"
-     },
- 
-     "proxied": false
- }
+    "target": {
+        "CNAME": {
+           "name": "william", 
+           "value": "edge.redirect.pizza"
+        }
+    },
+
+    "proxied": false
+}

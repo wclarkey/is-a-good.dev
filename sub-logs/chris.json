@@ -1,11 +1,15 @@
 {
-  "repo": "https://github.com/cannonballchris",
   "owner": {
-      "username": "cannonballchris",
-      "email": "cannonballchris8@gmail.com"
+    "username": "cannonballchris",
+    "email": "cannonballchris8@gmail.com"
   },
-  "record": {
-    "CNAME": "cname.vercel-dns.com"
+
+  "target": {
+    "CNAME": {
+      "name": "chris",
+      "value": "cname.vercel-dns.com"
+    }
   },
-  "proxied":false
+
+  "proxied": false
 }

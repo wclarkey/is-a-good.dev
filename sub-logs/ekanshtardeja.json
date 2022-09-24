@@ -1,12 +1,17 @@
-
 {
-    "repo": "https://github.com/ekanshmtardeja/EkanshTardeja",
+    "repo": "https://github.com/ekanshmtardeja/ekanshtardeja",
+
     "owner": {
         "username": "ekanshmtardeja",
         "email": "ekanshtardeja@gmail.com"
     },
+
     "target": {
-        "CNAME": "ekanshmtardeja.github.io"
+        "CNAME": {
+            "name": "ekanshtardeja",
+            "value": "ekanshtardeja.github.io"
+        }
     },
-    "proxied":false
+
+    "proxied": false
 }
